@@ -1,7 +1,8 @@
 [project]
 name = "m5stack-stick-s3-esphome"
 version = "0.1.0"
-description = "Add your description here"
+description = "Adds support for M5Stack Stick S3 to ESPHome"
+keywords = ["esp32", "esphome", "m5stack"]
 readme = "README.md"
 authors = [
     { name = "Viktor Lazarev", email = "taurus101v@gmail.com" }
